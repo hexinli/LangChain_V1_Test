@@ -103,7 +103,7 @@ https://www.bilibili.com/video/BV1rSFozLEjF/
 对应文件夹:11_XXX
 
 13. 【EP12_Skills】LangChain V1.x 集成Skills完整闭环攻略及详细功能拆解测试。支持按需加载Skill、说明即能力、工具化接入               
-https://youtu.be/tjhOPa5msMU                
-https://www.bilibili.com/video/BV1rSFozLEjF/      
+https://youtu.be/tjhOPa5msMU                   
+https://www.bilibili.com/video/BV1XqPdzuEQ3/                 
 对应文件夹:12_XXX
 
