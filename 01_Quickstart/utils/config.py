@@ -13,6 +13,9 @@ class Config:
     # 如果日志文件所在的目录不存在，则自动创建目录，确保日志写入不会因路径缺失而报错
     if not os.path.exists(os.path.dirname(LOG_FILE)):
         os.makedirs(os.path.dirname(LOG_FILE))
+    """
+    print(f"当前工作目录: {os.getcwd()}")
+    """
     # 配置单个日志文件的最大字节数（这里是 5MB），通常用于配合轮转日志处理
     MAX_BYTES = 5*1024*1024,
     # 配置日志轮转时最多保留的备份文件数量，这里设置为保留 3 个历史日志文件
